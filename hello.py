@@ -1,2 +1,6 @@
 print("Heello Min")
-print("Fuck you Min")
+
+name = "Prommin "
+last_name = "Mepeng"
+z = name + last_name
+print(z)
